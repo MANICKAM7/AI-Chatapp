@@ -4,7 +4,7 @@ NexusAI is a full-stack AI chat application inspired by ChatGPT, built using the
 
 Users can create conversations, chat with Gemini, manage chat history, and customize their profile through a modern responsive interface.
 
-## 🚀 Live Demo : **[AI-Chatapp.in]()**
+## 🚀 Live Demo : **[https://ai-chatpp.netlify.app/]()**
 
 ## 📸 Screenshot
 
