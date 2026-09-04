@@ -1,4 +1,6 @@
-const BASE_URL = '/api';
+
+// base url contain a backend render url for deploye//
+const BASE_URL = 'https://ai-chatapp-2.onrender.com/api';
 
 /**
  * Universal API request wrapper
