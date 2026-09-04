@@ -8,7 +8,7 @@ Users can create conversations, chat with Gemini, manage chat history, and custo
 
 ## 📸 Screenshot
 
-![NexusAI Screenshot]()
+![NexusAI Screenshot](https://github.com/MANICKAM7/AI-Chatapp/blob/792efcaf33891db3ea9a62cb6f4b845c838626fe/AI-Chatapp%201.PNG)
 
 ## ✨ Features
 
